@@ -1,0 +1,8 @@
+torch
+torchvision
+opencv-python
+numpy
+streamlit
+Pillow
+diffusers
+transformers  # Required for StableDiffusionInpaintPipeline
