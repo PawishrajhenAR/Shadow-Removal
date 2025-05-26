@@ -25,7 +25,7 @@ Advanced computer vision project using three AI models: U-Net for detection, Lat
 
 1. **Clone the repository**
 ```powershell
-(https://github.com/PawishrajhenAR/Shadow-Removal.git)
+git clone https://github.com/PawishrajhenAR/Shadow-Removal.git
 cd "Shadow Eraser"
 ```
 
