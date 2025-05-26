@@ -103,6 +103,6 @@ Contributions are welcome! Feel free to:
 
 ## 📜 License
 MIT License
-Copyright (c) 2025 Shadow Eraser
+Copyright (c) 2025 Shadow-Removal
 
 ---
